@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi, folks 👋 </h1>
+<h1 align="center">Hi 👋 </h1>
 
 ###
 
@@ -26,7 +26,6 @@
 
 <p align="left">
   - Đào Quang Dương<br>
-  - nam nhi đại trượng phu  <br>
   - ngoài 20<br>
   - sức khoẻ bình thường <br> 
   - yêu Tổ quốc <br> 
