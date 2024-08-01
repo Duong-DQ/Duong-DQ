@@ -38,7 +38,12 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  
+  <img src="https://bevyengine.org/assets/bevy_logo_dark.svg" height="40" alt="bevy logo"  />
+</div>
+</br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo"  />
